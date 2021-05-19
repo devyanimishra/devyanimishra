@@ -14,7 +14,9 @@ Feel free to email me for any opportunities!
 
 🔭 I’m currently working on ... Improving my skills as a software engineer!
 
-📫 How to reach me: ... My LinkedIn profile is: https://www.linkedin.com/in/devyani-mishra/
+📫 Where else to find me: ... My LinkedIn profile is: https://www.linkedin.com/in/devyani-mishra/
+                      
+💬 Reach out to me at ... My email address is: mdevyani0@gmail.com 
 
 
 <!--
